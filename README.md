@@ -6,6 +6,22 @@
 
 Я начинающий ios разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Изучаю swift уже больше года и думаю освоил ее достаточно чтобы начать откликаться на вакансии. В процессе обучения читал дополнительную литературу для развития, и все время находился в кругу друзей которые работают в таких компаниях как Яндекс, Mail.ru и в американских компаниях.
 
+Основной стек:
+- Swift, UIkit, SwiftUI
+- SOLID
+- Xcode
+- ООП
+- CocoaPods
+- MVC, MVVM
+- SnapKit, NSLayoutConstraint, Верстка кодом
+- ViewController life cycle
+- UserDefautls
+- Немного Rx swift и Combine
+- Git, GitHub, GitLab
+- Rest API
+- GCD
+
+
 - :telescope: Изучаю ios-разработку 5-6 часов каждый день
 
 - :zap: Хочу освоить новую проффесию и найти работу.
@@ -33,17 +49,16 @@
 ### 💻 Технологии и Инструменты:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="swift" alt="swift" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" alt="firebase" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="ph" alt="ph" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="ai" alt="ai" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" title="sketch" alt="sketch" width="40" height="40"/>&nbsp
+  
 </div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
 ---
 
 ### 💻 Пройденные курсы:
