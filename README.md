@@ -4,28 +4,25 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий ios разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Изучаю swift уже больше года и думаю освоил ее достаточно чтобы начать откликаться на вакансии. В процессе обучения читал дополнительную литературу для развития, и все время находился в кругу друзей которые работают в таких компаниях как Яндекс, Mail.ru и в американских компаниях.
+Я являюсь опытным iOS разработчиком, который имеет более 2 года опыта в создании и поддержке мобильных приложений для iOS платформы. Я обладаю углубленными знаниями в Swift необходимых для разработки высококачественных мобильных приложений.
 
 Основной стек:
 - Swift, UIkit, SwiftUI
-- SOLID
-- Xcode
-- ООП
-- CocoaPods
-- MVC, MVVM
 - SnapKit, NSLayoutConstraint, Верстка кодом
-- ViewController life cycle
-- UserDefautls
-- Немного Rx swift и Combine
+- Combine
+- Completion handler, Async await
+- CocoaPods, SPM
+- MVC, MVVM
+- CoreData,
+- Alamofire, URL Session,
+- Yookassa,
+- Kingfisher,
+- Firebase (Auth, Firestore, Storage, Functions, Remote config),
 - Git, GitHub, GitLab
 - Rest API
 - GCD
 
 ---
-
-- :telescope: Изучаю ios-разработку 5-6 часов каждый день
-
-- :zap: Хочу освоить новую проффесию и найти работу.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-lukmanmakhaev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/lukman_makhaev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lukmanmakhaev@gmail.com)
 
