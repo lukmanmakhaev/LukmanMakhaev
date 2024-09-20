@@ -7,20 +7,17 @@
 Я являюсь опытным iOS разработчиком, который имеет более 2 года опыта в создании и поддержке мобильных приложений для iOS платформы. Я обладаю углубленными знаниями в Swift необходимых для разработки высококачественных мобильных приложений.
 
 Основной стек:
-- Swift, UIkit, SwiftUI
-- SnapKit, NSLayoutConstraint, Верстка кодом
-- Combine
-- Completion handler, Async await
-- CocoaPods, SPM
-- MVC, MVVM
-- CoreData,
-- Alamofire, URL Session,
-- Yookassa,
-- Kingfisher,
-- Firebase (Auth, Firestore, Storage, Functions, Remote config),
-- Git, GitHub, GitLab
-- Rest API
-- GCD
+* Языки и фреймворки: Swift
+* Асинхронное программирование: Combine, Completion handler, Async/await, GCD
+* Сетевые библиотеки: Alamofire, URLSession
+* Работа с API: REST API, JSON, POSTMAN
+* Интерфейсы и верстка: SwiftUI, UIKit, AutoLayout, SnapKit
+* Работа с данными: CoreData, CoreLocation
+* Платежные системы: YooKassa
+* Работа с изображениями: Kingfisher
+* Сервисы Firebase: Auth, Firestore, Storage, Remote Config, Functions, Hosting
+* Менеджмент зависимостей: CocoaPods
+* Контроль версий: GitHub, GitLab
 
 ---
 
